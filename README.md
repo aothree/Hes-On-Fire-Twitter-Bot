@@ -1,3 +1,3 @@
 # Hes-On-Fire-Twitter-Bot
 
-A Twitter account that crawls live NBA playbyplay data, finds players who are "hot", and tweets out a video clip for every shot that qualifies as a 5th (or greater) shot made in a row.
+A Twitter account that scrapes live NBA playbyplay data looking for players who are hot.  We define hot as having made  more than 4 consecutive field goals.  When that happens, a tweet is automatically sent out with a corresponding video clip of the made shot.
